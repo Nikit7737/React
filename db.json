@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "nikit123",
+      "name": "hello",
+      "email": "ghs@wuh.cixk",
+      "id": 1
+    },
+    {
+      "username": "head",
+      "name": "hr mam1",
+      "email": "segnotech@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "danger1",
+      "name": "vikas sir",
+      "email": "mskma@jks.odkk",
+      "id": 3
+    }
+  ]
+}

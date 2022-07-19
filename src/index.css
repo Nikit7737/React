@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.NotFound{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  top: 0;
+  align-items: center;
+}
